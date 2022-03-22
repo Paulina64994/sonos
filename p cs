@@ -9,3 +9,6 @@ if(a>2){
 
    rtfr sferffse
 
+}
+int[] myArr = new int[100];
+}
