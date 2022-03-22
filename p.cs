@@ -16,4 +16,6 @@ if(a>2){
 
 }
 int[] myArr = new int[100];
+
+myArr.forEach(otem => Console.WriteLine(item));
 }
